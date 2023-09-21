@@ -27,9 +27,9 @@ class MainActivity : AppCompatActivity() {
         val cardIds = listOf(
             R.drawable.gustavo, R.drawable.gustavo,
             R.drawable.fred, R.drawable.fred,
-            R.drawable.card3, R.drawable.card3,
-            R.drawable.card4, R.drawable.card4,
-            R.drawable.card5, R.drawable.card5,
+            R.drawable.lafayette, R.drawable.lafayette,
+            R.drawable.leonidas, R.drawable.leonidas,
+            R.drawable.luiz, R.drawable.luiz,
             R.drawable.card6, R.drawable.card6
         )
 

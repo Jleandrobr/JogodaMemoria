@@ -39,7 +39,47 @@
         android:scaleType="fitCenter"
         />
 
+    <ImageView
+        android:id="@+id/cardImageView3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/alex" />
 
+    <ImageView
+        android:id="@+id/cardImageView4"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/leonidas" />
+
+    <ImageView
+        android:id="@+id/cardImageView5"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/lafayette" />
+
+    <ImageView
+        android:id="@+id/cardImageView6"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/luiz" />
+
+    <ImageView
+        android:id="@+id/cardImageView7"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/candido" />
+
+    <ImageView
+        android:id="@+id/cardImageView8"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/valeria" />
 
 
 
