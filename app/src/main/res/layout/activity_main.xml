@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+    <ImageView
+        android:id="@+id/cardImageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/gustavo" />
+
+
+<!--    <GridView-->
+<!--        xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--        android:id="@+id/gridView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:columnWidth="100dp"-->
+<!--        android:numColumns="4"-->
+<!--        android:horizontalSpacing="10dp"-->
+<!--        android:verticalSpacing="10dp"-->
+<!--        android:gravity="center"-->
+<!--        />-->
+
+        <ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/cardImageView2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/fred"
+        android:scaleType="fitCenter"
+        />
+
+
+
+
+
+
+<!--        <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_weight="5"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Teste sua memoria :)"></TextView>-->
+
+<!--<GridLayout-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:layout_weight="0.5"-->
+<!--    android:layout_marginLeft="10dp"-->
+<!--    android:columnCount="4"-->
+<!--    android:rowCount="4">-->
+
+
+<!--    <Button android:text="B1"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B2"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B3"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B4"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B5"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B6"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B7"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B8"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B9"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B10"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B11"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B12"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B13"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B14"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B15"-->
+<!--        android:layout_margin="5dp"/>-->
+<!--    <Button android:text="B16"-->
+<!--        android:layout_margin="5dp"/>-->
+
+
+<!--</GridLayout>-->
+
+</LinearLayout>
